@@ -12,6 +12,12 @@ javascript:"undefined"==typeof originalParse&&(window.originalParse=JSON.parse),
 2) Entre na Alura e active o código
 3) Desfrutar!
 
+OU
+
+1. Descarregar Tampermonkey
+2. Introduzir o código
+3. Ativar
+
 IMPORTANTE: NÃO PODE FAZER MAIS DO QUE 4 LIÇÕES POR DIA
 
 ## Como é que funciona?
