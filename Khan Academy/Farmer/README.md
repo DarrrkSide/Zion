@@ -12,6 +12,12 @@ javascript:(function(){for(let e=0;e<1e4;e++){clearInterval(e)}document.open();d
 2) Go into Khan Academy and activate the code
 3) Enjoy!
 
+OR
+
+1) Download Tampermonkey
+2) Enter the Code
+3) Activate
+
 ## How Does It Work?
 
 Farmer is a efficent way to grind energy points, so if you want to get energy points, this is the strat!
