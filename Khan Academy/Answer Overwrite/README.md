@@ -22,6 +22,8 @@ Please Join our Discord at discord.gg/khanacademy
 
 We regularly make hacks that people on our discord choose, and you can join in on that!
 
+Support our Repo by starring it!
+
 
 
 
