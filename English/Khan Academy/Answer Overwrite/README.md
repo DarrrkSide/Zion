@@ -1,37 +1,39 @@
-# Resposta Sobrescrever
+# Answer Overwrite
 
-## Código
+## Code
+
 ```js
 javascript:"undefined"==typeof originalParse&&(window.originalParse=JSON.parse),console.log("if you look in the console you WILL see a error, they save it as a question though so I'm not worried about it right now."),JSON.parse=function(o,t){let e=originalParse(o,t);try{const o=JSON.parse(e.data.assessmentItem.item.itemData);o.question&&o.question.content&&o.question.content[1]===o.question.content[1].toUpperCase()&&(console.log(o),o.question.content="pt"===location.hostname.split(".")[0]?"Selecione uma opção de resposta.":"Please select a answer choice.\n [[☃ radio 1]] [[☃ explanation 1]]",o.question.widgets={"radio 1":{options:{choices:[{content:"pt"===location.hostname.split(".")[0]?"Correcto":"Correct",correct:!0},{content:"pt"===location.hostname.split(".")[0]?"Incorrecto":"Incorrect",correct:!1}]}},"explanation 1":{options:{explanation:"discord.gg/khanacademy",hidePrompt:"",showPrompt:"Discord"}}},e.data.assessmentItem.item.itemData=JSON.stringify(o))}catch(o){}return e},location.softReload=()=>{const o=document.getElementsByTagName("html")[0].outerHTML;document.open(),document.write(o),document.close()},location.softReload(),console.error=function(){};
 ```  
 
 ## Tutorial 
 
-1) Arraste e largue o código para a sua barra de favoritos
-2) Aceda à Khan Academy e active o código
-3) Divirta-se!
+1) Drag and Drop The Code into your bookmarks bar
+2) Go into Khan Academy and activate the code
+3) Enjoy!
 
-OU
+OR
 
-1) Descarregar Tampermonkey
-2) Introduza o código
-3) Ativar
+1) Download Tampermonkey
+2) Enter the Code
+3) Activate
 
-## Como funciona?
+## How Does It Work?
 
-O Answer Overwrite responde às perguntas da lição da Khan Academy e é uma maneira eficiente de concluir tarefas na Khan sem fazer isso
+Answer Overwrite answers the questions on the Khan Academy Lesson, and is a efficient way to complete assignments on Khan without doing it
 
-## Seguro?
+## Safe?
 
-Sim, isto é seguro, houve **zero** casos registados de uma conta Khan a ser banida por hacks (pelo menos por agora). Além disso, se você está perguntando se isso é um vírus, é 100% open-sourced para sempre, então você pode olhar através do código para ver por si mesmo.
+Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks (at least for now). Also if you're asking if this is a virus it is 100% open-sourced forever so you can look through the code to see for yourself.
 
-## Apoie-nos
+## Support Us
 
-Por favor, junte-se ao nosso Discord em discord.gg/khanacademy 
+Please Join our Discord at discord.gg/khanacademy 
 
-Nós fazemos regularmente hacks que as pessoas no nosso discord escolhem, e tu podes juntar-te a eles!
+We regularly make hacks that people on our discord choose, and you can join in on that!
 
-Apoie nosso Repo marcando-o com uma estrela!
+Support our Repo by starring it!
+
 
 
 
