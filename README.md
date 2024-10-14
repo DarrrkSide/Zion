@@ -4,6 +4,8 @@
 
   Join the **[Discord](https://discord.gg/pujbPqMyPF)** for support and information! Our community is welcome to friendly discussion about our bookmarklets.
 
+  Our Discord server is our motivation for these hacks. The more people on the server, the more we are motivated.
+
   You can also provide suggestions.
 
 ## How to Use Bookmarklets
