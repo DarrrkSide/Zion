@@ -12,6 +12,12 @@ javascript:"undefined"==typeof originalParse&&(window.originalParse=JSON.parse),
 2) Go into Khan Academy and activate the code
 3) Enjoy!
 
+OR
+
+1) Download Tampermonkey
+2) Enter the Code
+3) Activate
+
 ## How Does It Work?
 
 Answer Overwrite answers the questions on the Khan Academy Lesson, and is a efficient way to complete assignments on Khan without doing it
