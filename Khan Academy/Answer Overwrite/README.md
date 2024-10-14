@@ -16,6 +16,10 @@ javascript:"undefined"==typeof originalParse&&(window.originalParse=JSON.parse),
 
 Answer Overwrite answers the questions on the Khan Academy Lesson, and is a efficient way to complete assignments on Khan without doing it
 
+## Safe?
+
+Yes this is safe, there have been **zero** recorded cases of a Khan account being banned for hacks (at least for now). Also if you're asking if this is a virus it is 100% open-sourced forever so you can look through the code to see for yourself.
+
 ## Support Us
 
 Please Join our Discord at discord.gg/khanacademy 
