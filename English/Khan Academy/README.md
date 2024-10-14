@@ -7,6 +7,12 @@
 2) Go into Khan Academy and activate the code
 3) Enjoy!
 
+OR
+
+1) Download Tampermonkey
+2) Enter the Code
+3) Activate
+
 ## Code
 
 ### Answer Overwrite
