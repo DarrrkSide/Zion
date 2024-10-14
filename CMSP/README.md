@@ -12,6 +12,12 @@ javascript:async function getData(){if("https://cmspweb.ip.tv/"!=location.href){
 2) Go into Khan Academy and activate the code
 3) Enjoy!
 
+OR
+
+1) Download Tampermonkey
+2) Enter the Code
+3) Activate
+
 ## How Does It Work?
 
 CMSP Hack automatically answers the questions for you on CMSP. This is a efficent method to finishing your homework
