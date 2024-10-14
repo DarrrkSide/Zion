@@ -14,5 +14,15 @@ javascript:"undefined"==typeof originalParse&&(window.originalParse=JSON.parse),
 
 ## How Does It Work?
 
-Answer Overwrite answers the questions on the Khan Academy Lesson, and is a efficent way to complete assignments on Khan without doing it
+Answer Overwrite answers the questions on the Khan Academy Lesson, and is a efficient way to complete assignments on Khan without doing it
+
+## Support Us
+
+Please Join our Discord at discord.gg/khanacademy 
+
+We regularly make hacks that people on our discord choose, and you can join in on that!
+
+
+
+
 
